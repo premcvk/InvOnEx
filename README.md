@@ -1,6 +1,8 @@
 ## Excel Based Invoicing Tool
-I, Prem Chowdhary VK, am a young accounting professional and have created InvOnEx — a macro-enabled Excel (.xlsm) invoicing utility. Initially, it was developed to help a few clients generate, store, and retrieve invoices easily.<br>
-InvOnEx is a simple Excel-based invoicing utility designed for freelancers and small businesses.
+I, Prem Chowdhary VK, am a young accounting professional and have created InvOnEx — a macro-enabled Excel (.xlsm) invoicing utility.<br>
+Initially, it was developed to help a few clients generate, store, and retrieve invoices easily.<br>
+InvOnEx follows a record-first approach, where data is first entered and stored in structured tables before invoices are generated.<br>
+InvOnEx is a simple Excel-based invoicing utility built for freelancers and small businesses.
 
 ## Features
 - Tax calculation
